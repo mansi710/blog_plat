@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+/node_modules
+/storage/*.key
+/public/assets/frontend
+/public/assets/images
+/vendor
+.env

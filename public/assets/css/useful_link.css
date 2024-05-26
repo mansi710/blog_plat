@@ -1,0 +1,34 @@
+.container{
+	margin-top: 40px;
+}
+.card {
+    box-shadow: 0 2px 9px 0 rgb(0 0 0 / 20%);
+    border-radius: 15px;
+}
+h4{
+	text-align: center;
+	letter-spacing: 0.5px;
+    font-size: 20px;
+    font-family: inherit;
+    color: #2e8ca7;
+    font-weight: 600;
+}
+h5{
+	letter-spacing: 0.5px;
+    font-size: 16px;
+    font-family: inherit;
+    color: #2e8ca7;
+    font-weight: 600;
+}
+p{
+	letter-spacing: 0.5px;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: inherit;
+}
+li{
+    letter-spacing: 0.5px;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: inherit;
+}
